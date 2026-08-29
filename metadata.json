@@ -1,0 +1,7 @@
+{
+  "name": "RevRescue AI",
+  "description": "Autonomous revenue recovery agent analyzing revenue-at-risk events, diagnosing root causes, enforcing strict compliance guardrails, and executing bounded recovery workflows with full audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
